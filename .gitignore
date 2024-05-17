@@ -1,2 +1,8 @@
 # nuke Jetbrains
 .idea
+
+# node
+node_modules
+
+# next
+.next
